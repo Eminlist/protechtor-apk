@@ -1,9 +1,9 @@
 {
-  "versionCode": 313001,
+  "versionCode": 313002,
   "versionName": "3.1.3.13",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313001/ProTechtor.apk",
-  "notes": "Bu yeniləmədə tətbiqin işində təkmilləşdirmələr və texniki düzəlişlər aparılmışdır. Bildiriş xidməti əlavə edilmiş, tətbiqin sabitliyi və təhlükəsizliyi artırılmışdır.",
-  "notes_ru": "В этом обновлении внесены улучшения в работу приложения и технические исправления. Добавлена служба уведомлений, повышены стабильность и безопасность приложения.",
-  "notes_tr": "Bu güncellemede uygulamanın çalışmasında iyileştirmeler ve teknik düzeltmeler yapılmıştır. Bildirim hizmeti eklenmiş, uygulamanın kararlılığı ve güvenliği artırılmıştır.",
-  "notes_en": "This update includes performance improvements and technical fixes. A notification service has been added, and the app's stability and security have been improved."
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313002/ProTechtor.apk",
+  "notes": "Bu yeniləmədə tətbiqin işində təkmilləşdirmələr və texniki düzəlişlər aparılmışdır. Bildiriş tənzimləmələri yenilənmiş, yeniləmə prosesi bütün cihazlarda daha sabit işləyir.",
+  "notes_ru": "В этом обновлении внесены улучшения в работу приложения и технические исправления. Обновлены настройки уведомлений, процесс обновления стал стабильнее на всех устройствах.",
+  "notes_tr": "Bu güncellemede uygulamanın çalışmasında iyileştirmeler ve teknik düzeltmeler yapılmıştır. Bildirim ayarları yenilenmiş, güncelleme süreci tüm cihazlarda daha kararlı çalışır.",
+  "notes_en": "This update includes performance improvements and technical fixes. Notification settings have been updated, and the update process is now more stable on all devices."
 }
