@@ -2,9 +2,9 @@
 
 Ekran qoruyucusunun telefonunuza uyğunluğunu tapmaq üçün rəsmi ProTechtor™ tətbiqi.
 
-**Son versiya:** 3.2.1 (build 116)
+**Son versiya:** 3.1.3.13 (build 117)
 
-### [⬇️ APK-nı endir](https://github.com/Eminlist/protechtor-apk/releases/download/v3.2.1-116/ProTechtor.apk)
+### [⬇️ APK-nı endir](https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-117/ProTechtor.apk)
 
 Quraşdırdıqdan sonra yeni versiyalar tətbiqin içindən **«Yenilə»** düyməsi ilə gəlir.
 
