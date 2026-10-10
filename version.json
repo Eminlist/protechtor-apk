@@ -1,9 +1,9 @@
 {
-  "versionCode": 313003,
-  "versionName": "3.1.3.13",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313003/ProTechtor.apk",
-  "notes": "Tətbiqin işində təkmilləşdirmələr və texniki düzəlişlər aparılmışdır.",
-  "notes_ru": "Внесены улучшения в работу приложения и технические исправления.",
-  "notes_tr": "Uygulamanın çalışmasında iyileştirmeler ve teknik düzeltmeler yapılmıştır.",
-  "notes_en": "Performance improvements and technical fixes."
+  "versionCode": 313004,
+  "versionName": "3.1.3.00",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.00-313004/ProTechtor.apk",
+  "notes": "Administrasiya ilə birbaşa əlaqə bölməsi əlavə edilmiş, bildirişlərin vaxtında çatdırılması təmin edilmiş və tətbiqin işində təkmilləşdirmələr aparılmışdır.",
+  "notes_ru": "Добавлен раздел прямой связи с администрацией, обеспечена своевременная доставка уведомлений и улучшена работа приложения.",
+  "notes_tr": "Yönetimle doğrudan iletişim bölümü eklenmiş, bildirimlerin zamanında iletilmesi sağlanmış ve uygulamanın çalışmasında iyileştirmeler yapılmıştır.",
+  "notes_en": "A direct contact section with the administration has been added, timely delivery of notifications has been ensured, and the app's performance has been improved."
 }
