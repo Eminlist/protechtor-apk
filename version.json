@@ -1,6 +1,6 @@
 {
-  "versionCode": 117,
+  "versionCode": 313,
   "versionName": "3.1.3.13",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-117/ProTechtor.apk",
-  "notes": "Versiya 3.1.3.13 — sayt ilə eyni"
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313/ProTechtor.apk",
+  "notes": "Push bildirişləri (FCM), bildiriş ayarları, səssiz rejim, Premium xatırlatma, ekran açıq, keş, Wi-Fi yeniləmə; build 313-dən"
 }
