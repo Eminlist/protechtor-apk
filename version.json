@@ -2,8 +2,8 @@
   "versionCode": 313001,
   "versionName": "3.1.3.13",
   "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313001/ProTechtor.apk",
-  "notes": "Yeniləmə qeydi 4 dildə, build nömrəsi 313.001 formatında",
-  "notes_ru": "Заметки к обновлению на 4 языках, номер сборки в формате 313.001",
-  "notes_tr": "Güncelleme notları 4 dilde, derleme numarası 313.001 biçiminde",
-  "notes_en": "Update notes in 4 languages, build number shown as 313.001"
+  "notes": "Yeni: telefona bildirişlər, «Bildiriş ayarları» menyusu, səssiz rejim, Premium xatırlatmaları, ekranı açıq saxlama və keşi təmizləmə.",
+  "notes_ru": "Новое: уведомления на телефон, меню «Настройки уведомлений», тихий режим, напоминания о Premium, экран без отключения и очистка кэша.",
+  "notes_tr": "Yeni: telefona bildirimler, «Bildirim ayarları» menüsü, sessiz mod, Premium hatırlatmaları, ekranı açık tutma ve önbellek temizleme.",
+  "notes_en": "New: phone notifications, «Notification settings» menu, quiet mode, Premium reminders, keep screen on and clear cache."
 }
