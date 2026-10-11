@@ -1,9 +1,9 @@
 {
-  "versionCode": 313008,
-  "versionName": "3.1.3.12",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.12-313008/ProTechtor.apk",
-  "notes": "Bayram bildirişləri yalnız bayram günü göndərilir.",
-  "notes_ru": "Праздничные уведомления приходят только в день праздника.",
-  "notes_tr": "Bayram bildirimleri yalnızca bayram günü gösterilir.",
-  "notes_en": "Holiday notifications are shown only on the holiday itself."
+  "versionCode": 313009,
+  "versionName": "3.1.3.13",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313009/ProTechtor.apk",
+  "notes": "Bayram hədiyyəsi bayramdan sonra 1 ay ərzində qəbul olunur.",
+  "notes_ru": "Праздничный подарок можно получить в течение месяца после праздника.",
+  "notes_tr": "Bayram hediyesi bayramdan sonra 1 ay içinde alınabilir.",
+  "notes_en": "Holiday gifts can be claimed within one month after the holiday."
 }
