@@ -1,9 +1,9 @@
 {
-  "versionCode": 313006,
-  "versionName": "3.1.3.10",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.10-313006/ProTechtor.apk",
-  "notes": "Bəzi cihazlarda (Xiaomi) titrəmənin işləməməsi aradan qaldırıldı.",
-  "notes_ru": "Устранена неработающая вибрация на некоторых устройствах (Xiaomi).",
-  "notes_tr": "Bazı cihazlarda (Xiaomi) titreşimin çalışmaması giderildi.",
-  "notes_en": "Fixed vibration not working on some devices (Xiaomi)."
+  "versionCode": 313007,
+  "versionName": "3.1.3.11",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.11-313007/ProTechtor.apk",
+  "notes": "Yeniləmələr artıq yalnız protechtor.app ünvanından alınır.",
+  "notes_ru": "Обновления теперь загружаются только с protechtor.app.",
+  "notes_tr": "Güncellemeler artık yalnızca protechtor.app adresinden alınmaktadır.",
+  "notes_en": "Updates are now delivered only from protechtor.app."
 }
