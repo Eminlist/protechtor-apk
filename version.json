@@ -1,9 +1,9 @@
 {
-  "versionCode": 313007,
-  "versionName": "3.1.3.11",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.11-313007/ProTechtor.apk",
-  "notes": "Yeniləmələr artıq yalnız protechtor.app ünvanından alınır.",
-  "notes_ru": "Обновления теперь загружаются только с protechtor.app.",
-  "notes_tr": "Güncellemeler artık yalnızca protechtor.app adresinden alınmaktadır.",
-  "notes_en": "Updates are now delivered only from protechtor.app."
+  "versionCode": 313008,
+  "versionName": "3.1.3.12",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.12-313008/ProTechtor.apk",
+  "notes": "Bayram bildirişləri yalnız bayram günü göndərilir.",
+  "notes_ru": "Праздничные уведомления приходят только в день праздника.",
+  "notes_tr": "Bayram bildirimleri yalnızca bayram günü gösterilir.",
+  "notes_en": "Holiday notifications are shown only on the holiday itself."
 }
