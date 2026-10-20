@@ -1,9 +1,9 @@
 {
-  "versionCode": 313012,
-  "versionName": "3.1.3.2",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.2-313012/ProTechtor.apk",
-  "notes": "Versiya məlumatının göstərilməsi və baza yenilənməsi bildirişləri təkmilləşdirildi.",
-  "notes_ru": "Улучшено отображение версии и уведомлений об обновлении базы.",
-  "notes_tr": "Sürüm bilgisinin gösterimi ve veritabanı güncelleme bildirimleri iyileştirildi.",
-  "notes_en": "Improved version display and database update notices."
+  "versionCode": 313013,
+  "versionName": "3.1.3.3",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.3-313013/ProTechtor.apk",
+  "notes": "Hesabın silinməsi Tənzimləmələr bölməsindəki «Hesab tənzimləmələri» menyusuna köçürüldü.",
+  "notes_ru": "Удаление аккаунта перенесено в меню «Настройки аккаунта» в разделе Настройки.",
+  "notes_tr": "Hesap silme, Ayarlar bölümündeki «Hesap ayarları» menüsüne taşındı.",
+  "notes_en": "Account deletion has been moved to the «Account settings» menu in Settings."
 }
