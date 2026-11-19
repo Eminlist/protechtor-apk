@@ -1,9 +1,9 @@
 {
-  "versionCode": 313013,
-  "versionName": "3.1.3.3",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.3-313013/ProTechtor.apk",
-  "notes": "Hesabın silinməsi Tənzimləmələr bölməsindəki «Hesab tənzimləmələri» menyusuna köçürüldü.",
-  "notes_ru": "Удаление аккаунта перенесено в меню «Настройки аккаунта» в разделе Настройки.",
-  "notes_tr": "Hesap silme, Ayarlar bölümündeki «Hesap ayarları» menüsüne taşındı.",
-  "notes_en": "Account deletion has been moved to the «Account settings» menu in Settings."
+  "versionCode": 313014,
+  "versionName": "3.1.3.4",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.4-313014/ProTechtor.apk",
+  "notes": "Bütün bildirişlər proqramdakı bildiriş siyahısında saxlanılır; bazaya əlavə olunan və bazadan çıxarılan modellər barədə məlumat verilir. Saytda e-poçt abunəliyi istifadəyə verilmişdir.",
+  "notes_ru": "Все уведомления сохраняются в списке уведомлений приложения; сообщается о моделях, добавленных в базу и удалённых из неё. На сайте введена подписка по электронной почте.",
+  "notes_tr": "Tüm bildirimler uygulamadaki bildirim listesinde saklanır; veritabanına eklenen ve veritabanından çıkarılan modeller hakkında bilgi verilir. Sitede e-posta aboneliği kullanıma sunulmuştur.",
+  "notes_en": "All notifications are kept in the in-app notification list; information is provided on models added to and removed from the database. E-mail subscription is now available on the website."
 }
