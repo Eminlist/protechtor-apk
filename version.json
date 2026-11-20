@@ -1,9 +1,9 @@
 {
-  "versionCode": 313017,
-  "versionName": "3.1.3.7",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.7-313017/ProTechtor.apk",
-  "notes": "Proqram daxilində saytın səhifələrinin ekranın eninə uyğun açılmaması aradan qaldırılmışdır.",
-  "notes_ru": "Устранена проблема, при которой страницы сайта в приложении открывались не по ширине экрана.",
-  "notes_tr": "Uygulama içinde site sayfalarının ekran genişliğine uygun açılmaması sorunu giderilmiştir.",
-  "notes_en": "Fixed site pages inside the app not opening to the full width of the screen."
+  "versionCode": 313018,
+  "versionName": "3.1.3.8",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.8-313018/ProTechtor.apk",
+  "notes": "Təhlükəsizlik gücləndirilmişdir: proqramın həqiqiliyi yoxlanılır, şifrə dəyişdirildikdə digər cihazlardakı girişlər dərhal ləğv olunur.",
+  "notes_ru": "Усилена безопасность: проверяется подлинность приложения, при смене пароля входы на других устройствах немедленно аннулируются.",
+  "notes_tr": "Güvenlik güçlendirilmiştir: uygulamanın orijinalliği doğrulanır, şifre değiştirildiğinde diğer cihazlardaki oturumlar derhal sonlandırılır.",
+  "notes_en": "Security has been strengthened: the app's authenticity is verified, and sign-ins on other devices are revoked immediately when the password is changed."
 }
