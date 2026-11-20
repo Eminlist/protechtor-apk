@@ -1,9 +1,9 @@
 {
-  "versionCode": 313018,
-  "versionName": "3.1.3.8",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.8-313018/ProTechtor.apk",
-  "notes": "Təhlükəsizlik gücləndirilmişdir: proqramın həqiqiliyi yoxlanılır, şifrə dəyişdirildikdə digər cihazlardakı girişlər dərhal ləğv olunur.",
-  "notes_ru": "Усилена безопасность: проверяется подлинность приложения, при смене пароля входы на других устройствах немедленно аннулируются.",
-  "notes_tr": "Güvenlik güçlendirilmiştir: uygulamanın orijinalliği doğrulanır, şifre değiştirildiğinde diğer cihazlardaki oturumlar derhal sonlandırılır.",
-  "notes_en": "Security has been strengthened: the app's authenticity is verified, and sign-ins on other devices are revoked immediately when the password is changed."
+  "versionCode": 313019,
+  "versionName": "3.1.3.9",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.9-313019/ProTechtor.apk",
+  "notes": "Təhlükəsizlik gücləndirilmiş, söhbət və bildirişlərin mobil şəbəkədə işləməsi təmin edilmişdir.",
+  "notes_ru": "Усилена безопасность, обеспечена работа чата и уведомлений в мобильной сети.",
+  "notes_tr": "Güvenlik güçlendirildi, sohbet ve bildirimlerin mobil ağda çalışması sağlandı.",
+  "notes_en": "Security strengthened; chat and notifications now work on mobile networks."
 }
