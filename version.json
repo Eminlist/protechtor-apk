@@ -1,9 +1,9 @@
 {
-  "versionCode": 313015,
-  "versionName": "3.1.3.5",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.5-313015/ProTechtor.apk",
-  "notes": "Baza yeniləmələrinin istifadəçilərə çatdırılması zamanı yaranan texniki nasazlıq aradan qaldırılmışdır.",
-  "notes_ru": "Устранена техническая неисправность, возникавшая при доставке обновлений базы пользователям.",
-  "notes_tr": "Veritabanı güncellemelerinin kullanıcılara iletilmesi sırasında oluşan teknik arıza giderilmiştir.",
-  "notes_en": "A technical fault in delivering database updates to users has been resolved."
+  "versionCode": 313016,
+  "versionName": "3.1.3.6",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.6-313016/ProTechtor.apk",
+  "notes": "Giriş və qeydiyyat ekranları yeniləndi, «Oynayaq» bölməsi əlavə edildi, hesabın təhlükəsizliyi gücləndirildi.",
+  "notes_ru": "Обновлены экраны входа и регистрации, добавлен раздел «Сыграем», усилена безопасность аккаунта.",
+  "notes_tr": "Giriş ve kayıt ekranları yenilendi, «Oynayalım» bölümü eklendi, hesap güvenliği güçlendirildi.",
+  "notes_en": "Sign-in and registration screens were updated, a «Let's play» section was added and account security was strengthened."
 }
