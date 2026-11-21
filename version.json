@@ -1,9 +1,9 @@
 {
-  "versionCode": 313026,
+  "versionCode": 313027,
   "versionName": "3.1.3.13",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313026/ProTechtor.apk",
-  "notes": "Fərqli Mövzular, bayram bəzəkləri və matəm lenti əlavə edildi; admin zəng düyməsi düzəldildi.",
-  "notes_ru": "Добавлены особые темы, праздничное оформление и траурная лента; исправлена кнопка звонка администратора.",
-  "notes_tr": "Özel Temalar, bayram süslemeleri ve yas kurdelesi eklendi; yönetici arama düğmesi düzeltildi.",
-  "notes_en": "Added Special Themes, holiday decorations and the mourning ribbon; fixed the admin call button."
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313027/ProTechtor.apk",
+  "notes": "«Dostunu gətir» dəvət sistemi, oyun xalları, yeniləmələrin mərhələli yayımı və texniki təkmilləşdirmələr.",
+  "notes_ru": "Система приглашений «Приведи друга», игровые очки, поэтапное распространение обновлений и технические улучшения.",
+  "notes_tr": "«Arkadaşını getir» davet sistemi, oyun puanları, güncellemelerin aşamalı dağıtımı ve teknik iyileştirmeler.",
+  "notes_en": "«Bring a friend» invitation system, game points, staged rollout of updates and technical improvements."
 }
