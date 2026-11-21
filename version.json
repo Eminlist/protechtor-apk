@@ -1,9 +1,9 @@
 {
-  "versionCode": 313025,
+  "versionCode": 313026,
   "versionName": "3.1.3.13",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313025/ProTechtor.apk",
-  "notes": "Bayram günlərində tətbiqin görünüşü avtomatik olaraq bayrama uyğunlaşdırılır; matəm günlərində sol küncdə rəsmi qara matəm lenti göstərilir.",
-  "notes_ru": "В праздничные дни оформление приложения автоматически меняется; в дни траура в левом углу отображается официальная чёрная траурная лента.",
-  "notes_tr": "Bayram günlerinde uygulamanın görünümü otomatik olarak bayrama uyarlanır; yas günlerinde sol köşede resmî siyah yas kurdelesi gösterilir.",
-  "notes_en": "On holidays the app's appearance changes automatically; on days of mourning an official black mourning ribbon is shown in the top-left corner."
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.13-313026/ProTechtor.apk",
+  "notes": "Fərqli Mövzular, bayram bəzəkləri və matəm lenti əlavə edildi; admin zəng düyməsi düzəldildi.",
+  "notes_ru": "Добавлены особые темы, праздничное оформление и траурная лента; исправлена кнопка звонка администратора.",
+  "notes_tr": "Özel Temalar, bayram süslemeleri ve yas kurdelesi eklendi; yönetici arama düğmesi düzeltildi.",
+  "notes_en": "Added Special Themes, holiday decorations and the mourning ribbon; fixed the admin call button."
 }
