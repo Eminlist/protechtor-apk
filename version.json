@@ -1,9 +1,9 @@
 {
-  "versionCode": 31300,
-  "versionName": "3.1.3 Rev. 000",
-  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.000-31300/ProTechtor.apk",
-  "notes": "Tətbiqin işində təkmilləşdirmələr və texniki düzəlişlər aparılmışdır.",
-  "notes_ru": "Внесены улучшения в работу приложения и технические исправления.",
-  "notes_tr": "Uygulamanın çalışmasında iyileştirmeler ve teknik düzeltmeler yapılmıştır.",
-  "notes_en": "Performance improvements and technical fixes."
+  "versionCode": 31301,
+  "versionName": "3.1.3 Rev. 001",
+  "url": "https://github.com/Eminlist/protechtor-apk/releases/download/v3.1.3.001-31301/ProTechtor.apk",
+  "notes": "Bildirişlərə «Aç» və «Bildirişlər» düymələri əlavə olundu; açılan bildirişlər statistikada nəzərə alınır.",
+  "notes_ru": "В уведомления добавлены кнопки «Открыть» и «Уведомления»; открытия уведомлений учитываются в статистике.",
+  "notes_tr": "Bildirimlere «Aç» ve «Bildirimler» düğmeleri eklendi; açılan bildirimler istatistiklerde dikkate alınır.",
+  "notes_en": "Notifications now have «Open» and «Notifications» buttons; opened notifications are counted in statistics."
 }
